@@ -1,0 +1,22 @@
+D:\Project\mvt-dubaothoitiet\DubaoThoiTiet\Test\bin\Debug\Test.exe
+D:\Project\mvt-dubaothoitiet\DubaoThoiTiet\Test\bin\Debug\Test.pdb
+D:\Project\mvt-dubaothoitiet\DubaoThoiTiet\Test\bin\Debug\HtmlAgilityPack.dll
+D:\Project\mvt-dubaothoitiet\DubaoThoiTiet\Test\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\mvt-dubaothoitiet\DubaoThoiTiet\Test\obj\Debug\Test.Form1.resources
+D:\Project\mvt-dubaothoitiet\DubaoThoiTiet\Test\obj\Debug\Test.Properties.Resources.resources
+D:\Project\mvt-dubaothoitiet\DubaoThoiTiet\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+D:\Project\mvt-dubaothoitiet\DubaoThoiTiet\Test\obj\Debug\Test.exe
+D:\Project\mvt-dubaothoitiet\DubaoThoiTiet\Test\obj\Debug\Test.pdb
+D:\Project\mvt-dubaothoitiet\DubaoThoiTiet\Test\bin\Debug\Test.exe.config
+D:\Project\mvt-dubaothoitiet\New folder\DubaoThoiTiet\Test\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\mvt-dubaothoitiet\New folder\DubaoThoiTiet\Test\obj\Debug\Test.Main.resources
+D:\Project\mvt-dubaothoitiet\New folder\DubaoThoiTiet\Test\obj\Debug\Test.Properties.Resources.resources
+D:\Project\mvt-dubaothoitiet\New folder\DubaoThoiTiet\Test\obj\Debug\GenerateResource.read.1.tlog
+D:\Project\mvt-dubaothoitiet\New folder\DubaoThoiTiet\Test\obj\Debug\GenerateResource.write.1.tlog
+D:\Project\mvt-dubaothoitiet\New folder\DubaoThoiTiet\Test\bin\Debug\Test.exe.config
+D:\Project\mvt-dubaothoitiet\New folder\DubaoThoiTiet\Test\bin\Debug\Test.exe
+D:\Project\mvt-dubaothoitiet\New folder\DubaoThoiTiet\Test\bin\Debug\Test.pdb
+D:\Project\mvt-dubaothoitiet\New folder\DubaoThoiTiet\Test\bin\Debug\Facebook.dll
+D:\Project\mvt-dubaothoitiet\New folder\DubaoThoiTiet\Test\bin\Debug\HtmlAgilityPack.dll
+D:\Project\mvt-dubaothoitiet\New folder\DubaoThoiTiet\Test\obj\Debug\Test.exe
+D:\Project\mvt-dubaothoitiet\New folder\DubaoThoiTiet\Test\obj\Debug\Test.pdb

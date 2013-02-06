@@ -1,0 +1,12 @@
+D:\Project\mvt-dubaothoitiet\New folder\DubaoThoiTiet\Test\bin\Debug\Facebook.dll
+D:\Project\mvt-dubaothoitiet\New folder\DubaoThoiTiet\Test\bin\Debug\HtmlAgilityPack.dll
+D:\Project\mvt-dubaothoitiet\New folder\DubaoThoiTiet\Test\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\mvt-dubaothoitiet\New folder\DubaoThoiTiet\Test\obj\Debug\Test.Main.resources
+D:\Project\mvt-dubaothoitiet\New folder\DubaoThoiTiet\Test\obj\Debug\GenerateResource.read.1.tlog
+D:\Project\mvt-dubaothoitiet\New folder\DubaoThoiTiet\Test\obj\Debug\GenerateResource.write.1.tlog
+D:\Project\mvt-dubaothoitiet\New folder\DubaoThoiTiet\Test\bin\Debug\AutoWeather.exe.config
+D:\Project\mvt-dubaothoitiet\New folder\DubaoThoiTiet\Test\bin\Debug\AutoWeather.exe
+D:\Project\mvt-dubaothoitiet\New folder\DubaoThoiTiet\Test\bin\Debug\AutoWeather.pdb
+D:\Project\mvt-dubaothoitiet\New folder\DubaoThoiTiet\Test\obj\Debug\AutoWeather.Properties.Resources.resources
+D:\Project\mvt-dubaothoitiet\New folder\DubaoThoiTiet\Test\obj\Debug\AutoWeather.exe
+D:\Project\mvt-dubaothoitiet\New folder\DubaoThoiTiet\Test\obj\Debug\AutoWeather.pdb
